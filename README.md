@@ -35,6 +35,14 @@ Terbiasa bekerja mandiri maupun dalam tim, serta aktif belajar teknologi baru un
 
 ---
 
+### 🧾 Proyek Portofolio
+| Proyek | Deskripsi | Teknologi |
+|--------|------------|-----------|
+| [Sistem Tahfidz Santri](https://sip.ptmalaqshokudus.or.id) | Sistem manajemen hafalan santri dan laporan halaqoh berbasis web. | PHP, MySQL |
+| [Website Pondok](https://ptmalaqshokudus.or.id) | Website pondok | wordpress, mysql |
+| [Platform Pembelajaran Informatika](https://informatikapakfaul.my.id) | Website interaktif untuk pelatihan Canva, WordPress dan dasar pemrograman. | HTML, CSS, JS |
+| [blog informatika](https://informatikapakfaul.wordpress.com) | Blog Informatika untuk siswa | wordpress, mysql |
+
 ### 💼 Pengalaman Kerja
 
 **Developer Sistem – PTM Al Aqsho Kudus**  
